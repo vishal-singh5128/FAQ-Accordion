@@ -189,4 +189,13 @@ img{
         left: 0px;
         
     }
+
+    .question{
+        font-size: 0.93rem;
+
+    }
+
+    .answer{
+        font-size: 0.75rem;
+    }
   }
